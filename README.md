@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072FF&height=200&section=header&text=Neelkumar%20Kalavadiya%20🚀&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20%26%20AI%20Engineer%20%7C%20M.S.%20Business%20Analytics%20%26%20AI%20@%20UT%20Dallas&descAlignY=60" alt="header banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neelkumar%20Kalavadiya%20🚀&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <!-- Typing Animation -->
