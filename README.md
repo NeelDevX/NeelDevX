@@ -37,10 +37,10 @@
 ## 🚀 Featured Projects  
 | 🧠 Project | 🔍 Description | ⚙️ Tech |
 |-------------|----------------|---------|
-| **[AutoETL](https://github.com/NeelDevX/AutoETL)** | Intelligent ETL framework that detects schema drift and adapts pipelines dynamically using LangChain. | Python • Databricks • Airflow • LangChain |
+| **[AutoETL]** | Intelligent ETL framework that detects schema drift and adapts pipelines dynamically using LangChain. | Python • Databricks • Airflow • LangChain |
 | **[Credit Risk Prediction](https://github.com/NeelDevX/amex-credit-default-prediction)** | End-to-end ML pipeline predicting customer credit default risk with feature engineering & model tuning. | Python • XGBoost • MLflow |
-| **[Virtual Energy Grid](https://github.com/NeelDevX/VirtualEnergyGrid)** | AI-powered grid visualization & congestion forecasting platform integrating energy & geospatial data. | Azure • Snowflake • Power BI |
-| **[Amazon FBA Returns Tracker](https://github.com/NeelDevX/FBA-Returns-Tracker)** | Streamlit-based system for automating inventory, returns, and loss tracking for FBA logistics. | Python • Streamlit • Google Sheets API |
+| **[Virtual Energy Grid]** | AI-powered grid visualization & congestion forecasting platform integrating energy & geospatial data. | Azure • Snowflake • Power BI |
+| **[Amazon FBA Returns Tracker]** | Streamlit-based system for automating inventory, returns, and loss tracking for FBA logistics. | Python • Streamlit • Google Sheets API |
 
 ---
 
