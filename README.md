@@ -1,10 +1,16 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=230&section=header&text=Neelkumar%20Kalavadiya%20🚀&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Data%20%26%20AI%20Engineer%20|%20M.S.%20Business%20Analytics%20%26%20AI%20@%20UT%20Dallas&descAlignY=60&animation=fadeIn)
-
-<!-- Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00C6FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Neelkumar!;🚀+Data+%26+AI+Engineer+%7C+Cloud+%26+Analytics+Enthusiast;💡+Turning+Data+into+Intelligence+and+Automation;🤖+Exploring+LangChain%2C+LLMs+%26+Generative+AI" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Neelkumar%20Kalavadiya%20🚀&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Data%20%26%20AI%20Engineer%20%7C%20M.S.%20Business%20Analytics%20%26%20AI%20@%20UT%20Dallas&descAlignY=65&animation=fadeIn" alt="banner"/>
 </p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/NeelDevX">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Neelkumar!;🚀+Data+%26+AI+Engineer+%7C+Cloud+%26+Analytics+Enthusiast;💡+Turning+Data+into+Intelligence+and+Automation;🤖+Exploring+LangChain%2C+LLMs+%26+Generative+AI" alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 ---
 
