@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neel%20Kalavadiya%20🚀&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neel%20Kalavadiya%20&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <!-- Typing Animation -->
@@ -56,12 +56,19 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/neelkumarkalavadiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:neelkumarkalavadiya@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-orange?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://neeldevx.dev"><img src="https://img.shields.io/badge/Portfolio-NeelDevX.dev-black?style=for-the-badge&logo=vercel"/></a>
+  <a href="https://linkedin.com/in/neelkumarkalavadiya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:neelkumar.kalavadiya99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-orange?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/NeelDevX">
+    <img src="https://img.shields.io/badge/GitHub-NeelDevX-black?style=for-the-badge&logo=github"/>
+  </a>
 </p>
+
 
 ---
 
