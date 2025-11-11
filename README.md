@@ -1,8 +1,8 @@
 <p align="center">
   <img 
-    src="https://github-readme-capsule.vercel.app/api?type=waving&color=0072FF&height=200&section=header&text=Neel%20Kalavadiya%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20%26%20AI%20Engineer%20%7C%20Cloud%20%20%26%20Analytics%20Innovator&descAlignY=60"
+    src="https://github-readme-capsule.vercel.app/api?type=waving&color=0072FF&height=200&section=header&text=Neel%20Kalavadiya%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20%26%20AI%20Engineer%20%7C%20Cloud%20%26%20Analytics%20Innovator&descAlignY=60"
     alt="Neel Kalavadiya Header"
-/>
+  />
 </p>
 
 
