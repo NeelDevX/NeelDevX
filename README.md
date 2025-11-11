@@ -1,7 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neel%20Kalavadiya%20
-    &fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20%26%20AI%20Engineer%20|%20Cloud%20%26%20Analytics%20Innovator&descAlignY=60""/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neel%20Kalavadiya%20&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Data%20%26%20AI%20Engineer%20|%20Cloud%20%26%20Analytics%20Innovator&descAlignY=60""/>
 </p>
 
 <!-- Typing Animation -->
