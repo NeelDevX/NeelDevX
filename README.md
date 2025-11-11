@@ -1,11 +1,5 @@
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neel%20Kalavadiya%20&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Data%20%26%20AI%20Engineer%20%7C%20Cloud%20%26%20Analytics%20Innovator&descAlignY=60"
-    alt="Neel Kalavadiya Header"
-  />
-</p>
-
-
+<!-- Profile Banner --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neel%20Kalavadiya%20&fontSize=42&fontColor=ffffff&fontAlignY=35" /> </p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -13,8 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Neel!;🚀+Data+%26+AI+Engineer+%7C+Enthusiast;💡+Turning+Data+into+Intelligence+and+Automation;🤖+Exploring+LangChain%2C+LLMs+%26+Generative+AI" alt="Typing SVG" />
   </a>
 </p>
-
-
 
 ---
 
