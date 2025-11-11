@@ -59,13 +59,13 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/neelkumarkalavadiya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:neelkumar.kalavadiya99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-orange?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/NeelDevX">
-    <img src="https://img.shields.io/badge/GitHub-NeelDevX-black?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
