@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neelkumar%20Kalavadiya%20🚀&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=Neel%20Kalavadiya%20🚀&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 </p>
 
 <!-- Typing Animation -->
