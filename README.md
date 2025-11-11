@@ -16,7 +16,7 @@
 
 ## 🧠 About Me  
 - 🎓 **M.S. Business Analytics & AI** @ *The University of Texas at Dallas*  
-- 💼 **Data & AI Engineer** @ [Community Dreams Foundation](https://www.communitydreamsfoundation.org)  
+- 💼 **Data & AI Engineer** @ Community Dreams Foundation
 - ⚙️ 3+ years experience designing **data pipelines**, **ML workflows**, and **AI solutions** in **Azure**, **Databricks**, and **Snowflake**  
 - 💬 Passionate about **data intelligence**, **automation**, and **human-centered AI systems**  
 - 🌱 Currently exploring **LangChain**, **GenAI pipelines**, and **LLM-based data orchestration**
