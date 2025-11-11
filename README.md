@@ -53,14 +53,23 @@
 
 ---
 
+## 🏆 Achievements & Stats  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NeelDevX&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NeelDevX&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
+
+---
+
+
 ## 🐍 GitHub Contributions  
 
 <p align="center">
   <img src="https://github.com/NeelDevX/NeelDevX/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark mode" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/NeelDevX/NeelDevX/blob/output/github-contribution-grid-snake.svg" alt="snake animation light mode" />
 </p>
 
 ---
