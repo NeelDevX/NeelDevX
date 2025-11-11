@@ -55,6 +55,13 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelDevX&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🐍 GitHub Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/NeelDevX/NeelDevX/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
