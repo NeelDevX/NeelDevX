@@ -51,6 +51,7 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeelDevX&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- 
 ---
 
 ## 🏆 Achievements & Stats  
@@ -64,6 +65,7 @@
 </p>
 
 ---
+--> 
 
 
 ## 🐍 GitHub Contributions  
