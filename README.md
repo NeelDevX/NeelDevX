@@ -24,7 +24,7 @@
 
 | 💻 **Languages & Core** | ☁️ **Cloud & Data** | 🧰 **Orchestration & DevOps** | 📊 **Visualization** | 🤖 **AI / GenAI** |
 |:-----------------------:|:------------------:|:----------------------------:|:-------------------:|:----------------:|
-| Python 🐍 • SQL • PySpark | Azure • Databricks • Snowflake • ADLS • dbt | Airflow • Docker • Git • CI/CD • Azure DevOps | Power BI • Tableau • Plotly | LangChain • OpenAI API • Transformers • LLMs |
+| Python • SQL • PySpark | Azure • Databricks • Snowflake • ADLS • dbt | Airflow • Docker • Git • CI/CD • Azure DevOps | Power BI • Tableau • Plotly | LangChain • OpenAI API • Transformers • LLMs |
 
 </div>
 
