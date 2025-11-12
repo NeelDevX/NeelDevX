@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/NeelDevX">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Neel!;🚀+Data+%26+AI+Engineer+%7C+Enthusiast;💡+Turning+Data+into+Intelligence+and+Automation;🤖+Exploring+LangChain%2C+LLMs+%26+Generative+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Neel!;🚀+Data+%26+AI+Engineer+Enthusiast;💡+Turning+Data+into+Intelligence+and+Automation;🤖+Exploring+LangChain%2C+LLMs+%26+Generative+AI" alt="Typing SVG" />
   </a>
 </p>
 
@@ -79,14 +79,21 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/neelkumarkalavadiya">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/neelkumarkalavadiya" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:neelkumar.kalavadiya99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-orange?style=for-the-badge&logo=gmail"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:neelkumar.kalavadiya99@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/223047/gmail.svg" alt="Gmail" width="40" height="40" />
   </a>
-  <a href="https://github.com/NeelDevX">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/NeelDevX" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/475654/github-color.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/mr_godfather_2028" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+         alt="Instagram" width="40" height="40" />
   </a>
 </p>
 
