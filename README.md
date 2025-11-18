@@ -33,6 +33,7 @@
 ## 🚀 Featured Projects  
 | 🧠 Project | 🔍 Description | ⚙️ Tech |
 |-------------|----------------|---------|
+| **[Game of Thrones RAG Chatbot](https://github.com/NeelDevX/game-of-thrones-GPT)** <br> <a href="https://game-of-thrones-gpt-pa9gjikkdmxum3jos4xmcw.streamlit.app/" target="_blank">(Live Demo)</a> | Lore-grounded AI chatbot using RAG, ChromaDB & character personas (Tyrion, Jon Snow, Arya). Answers strictly using GOT PDFs with character-accurate tone. | Python • ChromaDB • Sentence-Transformers • OpenAI • Streamlit |
 | **[AutoETL]** | Intelligent ETL framework that detects schema drift and adapts pipelines dynamically using LangChain. | Python • Databricks • Airflow • LangChain |
 | **[Credit Risk Prediction](https://github.com/NeelDevX/amex-credit-default-prediction)** | End-to-end ML pipeline predicting customer credit default risk with feature engineering & model tuning. | Python • XGBoost • MLflow |
 | **[Virtual Energy Grid]** | AI-powered grid visualization & congestion forecasting platform integrating energy & geospatial data. | Azure • Snowflake • Power BI |
